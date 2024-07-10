@@ -6,10 +6,17 @@
   </a>
 </h1>
 
-<h3 align=center>I am a Front-End Web Developer from the Big Island with ongoing study at Devslopes Academy.</h3>
+<h3 align=center>I am a Front-End Web Developer from the Big Island of Hawaii!</h3>
 
-What I am currently Learning:
-1. JavaScript
-2. TypeScript
-3. React
+<p align=center>I am currently studying Full-Stack Web Development at Devslopes Web Academy</p>
+
+<h4 align=center>What I am currently Learning:</h4>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/richardolpindo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://djricky808.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=otodoist&logoColor=white" target="_blank" /></a>
+</div>
+
 
