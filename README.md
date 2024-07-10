@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align=center>My name is Richard Olpindo and I am a student learning Full Stack Web Development at Devslopes Academy.</h3>
+<h3 align=center>I am a Front-End Web Developer with ongoing study at Devslopes Academy.</h3>
 
 What I am currently Learning:
 1. JavaScript
