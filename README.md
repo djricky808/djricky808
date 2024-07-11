@@ -10,13 +10,20 @@
 
 <p align=center>I am currently studying Full-Stack Web Development at Devslopes Web Academy</p>
 
-<h4 align=center>What I am currently Learning:</h4>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/richardolpindo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://djricky808.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=otodoist&logoColor=white" target="_blank" /></a>
+  <a href="https://djricky808.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div>
+
+<h2 align="center"> 🛠️ Language Framwork-Tools🛠️ </h2>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,vscode,git,javascript,typescript,react" />
+  </a>
+</div>
+
 
 
