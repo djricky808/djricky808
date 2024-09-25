@@ -16,8 +16,9 @@
   <a href="https://djricky808.github.io">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div>
-
-<img align="center" src="https://www.codewars.com/users/djricky808/badges/large" target="_blank" />
+<div align="center">
+<img src="https://www.codewars.com/users/djricky808/badges/large" target="_blank" />
+</div>
 
 <h2 align="center"> 🛠️ Language Framwork-Tools🛠️ </h2>
 <br>
